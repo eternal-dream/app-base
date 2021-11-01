@@ -1,0 +1,1 @@
+<view><button type="default" data-event-opts="{{[['tap',[['switchT',['$event']]]]]}}" bindtap="__e">测试1</button><button type="default" data-event-opts="{{[['tap',[['test',['$event']]]]]}}" bindtap="__e">测试2</button></view>
